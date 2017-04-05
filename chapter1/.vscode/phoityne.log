@@ -1,0 +1,270 @@
+2017-04-03 01:23:00 [ThreadId 7] ERROR phoityne - ghci launch error. <file descriptor: 40>: hPutChar: resource vanished (Broken pipe)
+
+2017-04-03 01:23:00 [ThreadId 7] ERROR phoityne - [disconnectRequestHandler] ghci not started.
+2017-04-03 01:37:56 [ThreadId 7] ERROR phoityne - "error: Variable not in scope: be"
+2017-04-03 01:38:11 [ThreadId 7] ERROR phoityne - "\"extractSourcePosition\" (line 5, column 6):\nunexpected end of input\nexpecting \"Stopped at \" or \"Stopped in \" [INPUT]    should be 0\n\nFinished in 17.7429 seconds\n3 examples, 0 failures\nH>>= "
+2017-04-03 22:56:12 [ThreadId 7] ERROR phoityne - load file fail.[/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs] file load error. '/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs'
+2017-04-03 22:56:12 [ThreadId 7] ERROR phoityne - startup load error. /Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs
+
+2017-04-03 22:58:28 [ThreadId 7] ERROR phoityne - load file fail.[/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs] file load error. '/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs'
+2017-04-03 22:58:28 [ThreadId 7] ERROR phoityne - startup load error. /Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs
+
+2017-04-03 22:59:36 [ThreadId 7] ERROR phoityne - load file fail.[/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs] file load error. '/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs'
+2017-04-03 22:59:36 [ThreadId 7] ERROR phoityne - startup load error. /Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs
+
+2017-04-03 23:04:25 [ThreadId 7] ERROR phoityne - load file fail.[/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs] file load error. '/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs'
+2017-04-03 23:04:25 [ThreadId 7] ERROR phoityne - startup load error. /Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs
+
+2017-04-03 23:06:14 [ThreadId 7] ERROR phoityne - load file fail.[/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs] file load error. '/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs'
+2017-04-03 23:06:14 [ThreadId 7] ERROR phoityne - startup load error. /Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs
+
+2017-04-03 23:07:24 [ThreadId 7] ERROR phoityne - load file fail.[/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs] file load error. '/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs'
+2017-04-03 23:07:24 [ThreadId 7] ERROR phoityne - startup load error. /Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs
+
+2017-04-03 23:11:54 [ThreadId 7] ERROR phoityne - load file fail.[/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs] file load error. '/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs'
+2017-04-03 23:11:54 [ThreadId 7] ERROR phoityne - startup load error. /Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs
+
+2017-04-03 23:21:59 [ThreadId 7] ERROR phoityne - load file fail.[/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs] file load error. '/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs'
+2017-04-03 23:21:59 [ThreadId 7] ERROR phoityne - startup load error. /Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs
+
+2017-04-03 23:22:32 [ThreadId 12] ERROR phoityne - load file fail.[/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Phoityne/Example/CreditCardSpec.hs] file load error. '/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Phoityne/Example/CreditCardSpec.hs'
+2017-04-03 23:22:35 [ThreadId 7] ERROR phoityne - load file fail.[/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs] file load error. '/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs'
+2017-04-03 23:22:35 [ThreadId 7] ERROR phoityne - startup load error. /Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs
+
+2017-04-03 23:22:54 [ThreadId 12] ERROR phoityne - load file fail.[/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Phoityne/Example/CreditCardSpec.hs] file load error. '/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Phoityne/Example/CreditCardSpec.hs'
+2017-04-03 23:22:59 [ThreadId 7] ERROR phoityne - load file fail.[/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs] file load error. '/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs'
+2017-04-03 23:22:59 [ThreadId 7] ERROR phoityne - startup load error. /Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs
+
+2017-04-03 23:24:04 [ThreadId 7] ERROR phoityne - load file fail.[/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs] file load error. '/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs'
+2017-04-03 23:24:04 [ThreadId 7] ERROR phoityne - startup load error. /Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs
+
+2017-04-03 23:24:22 [ThreadId 12] ERROR phoityne - load file fail.[/Users/pedropereira/Dev/p2p-haskell/chapter1/src/Phoityne/Example/CreditCard.hs] file load error. '/Users/pedropereira/Dev/p2p-haskell/chapter1/src/Phoityne/Example/CreditCard.hs'
+2017-04-03 23:24:26 [ThreadId 7] ERROR phoityne - load file fail.[/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs] file load error. '/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs'
+2017-04-03 23:24:26 [ThreadId 7] ERROR phoityne - startup load error. /Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs
+
+2017-04-03 23:42:35 [ThreadId 7] ERROR phoityne - load file fail.[/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs] file load error. '/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs'
+2017-04-03 23:42:35 [ThreadId 7] ERROR phoityne - startup load error. /Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs
+
+2017-04-03 23:44:58 [ThreadId 7] ERROR phoityne - load file fail.[/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs] file load error. '/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs'
+2017-04-03 23:44:58 [ThreadId 7] ERROR phoityne - startup load error. /Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs
+
+2017-04-03 23:45:53 [ThreadId 7] ERROR phoityne - load file fail.[/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs] file load error. '/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs'
+2017-04-03 23:45:53 [ThreadId 7] ERROR phoityne - startup load error. /Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs
+
+2017-04-03 23:54:09 [ThreadId 7] ERROR phoityne - load file fail.[/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs] file load error. '/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs'
+2017-04-03 23:54:09 [ThreadId 7] ERROR phoityne - startup load error. /Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs
+
+2017-04-03 23:55:09 [ThreadId 7] ERROR phoityne - load file fail.[/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs] file load error. '/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs'
+2017-04-03 23:55:09 [ThreadId 7] ERROR phoityne - startup load error. /Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs
+
+2017-04-03 23:57:33 [ThreadId 7] ERROR phoityne - load file fail.[/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs] file load error. '/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs'
+2017-04-03 23:57:33 [ThreadId 7] ERROR phoityne - startup load error. /Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs
+
+2017-04-03 23:57:39 [ThreadId 12] ERROR phoityne - load file fail.[/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Phoityne/Example/CreditCardSpec.hs] file load error. '/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Phoityne/Example/CreditCardSpec.hs'
+2017-04-03 23:57:42 [ThreadId 7] ERROR phoityne - load file fail.[/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs] file load error. '/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs'
+2017-04-03 23:57:42 [ThreadId 7] ERROR phoityne - startup load error. /Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs
+
+2017-04-04 00:03:45 [ThreadId 7] ERROR phoityne - load file fail.[/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs] file load error. '/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs'
+2017-04-04 00:03:45 [ThreadId 7] ERROR phoityne - startup load error. /Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs
+
+2017-04-04 00:03:56 [ThreadId 7] ERROR phoityne - load file fail.[/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs] file load error. '/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs'
+2017-04-04 00:03:56 [ThreadId 7] ERROR phoityne - startup load error. /Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs
+
+2017-04-04 00:04:05 [ThreadId 7] ERROR phoityne - load file fail.[/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs] file load error. '/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs'
+2017-04-04 00:04:05 [ThreadId 7] ERROR phoityne - startup load error. /Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs
+
+2017-04-04 00:04:07 [ThreadId 7] ERROR phoityne - load file fail.[/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs] file load error. '/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs'
+2017-04-04 00:04:07 [ThreadId 7] ERROR phoityne - startup load error. /Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs
+
+2017-04-04 00:04:13 [ThreadId 7] ERROR phoityne - load file fail.[/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs] file load error. '/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs'
+2017-04-04 00:04:13 [ThreadId 7] ERROR phoityne - startup load error. /Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs
+
+2017-04-04 00:04:38 [ThreadId 7] ERROR phoityne - load file fail.[/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs] file load error. '/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs'
+2017-04-04 00:04:38 [ThreadId 7] ERROR phoityne - startup load error. /Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs
+
+2017-04-04 00:05:25 [ThreadId 7] ERROR phoityne - load file fail.[/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs] file load error. '/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs'
+2017-04-04 00:05:25 [ThreadId 7] ERROR phoityne - startup load error. /Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs
+
+2017-04-04 00:05:38 [ThreadId 12] ERROR phoityne - load file fail.[/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Phoityne/Example/CreditCardSpec.hs] file load error. '/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Phoityne/Example/CreditCardSpec.hs'
+2017-04-04 00:05:42 [ThreadId 7] ERROR phoityne - load file fail.[/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs] file load error. '/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs'
+2017-04-04 00:05:42 [ThreadId 7] ERROR phoityne - startup load error. /Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs
+
+2017-04-04 00:06:00 [ThreadId 7] ERROR phoityne - load file fail.[/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs] file load error. '/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs'
+2017-04-04 00:06:00 [ThreadId 7] ERROR phoityne - startup load error. /Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs
+
+2017-04-04 00:06:10 [ThreadId 12] ERROR phoityne - load file fail.[/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Phoityne/Example/CreditCardSpec.hs] file load error. '/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Phoityne/Example/CreditCardSpec.hs'
+2017-04-04 00:06:13 [ThreadId 7] ERROR phoityne - load file fail.[/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs] file load error. '/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs'
+2017-04-04 00:06:13 [ThreadId 7] ERROR phoityne - startup load error. /Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs
+
+2017-04-04 00:09:42 [ThreadId 7] ERROR phoityne - load file fail.[/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs] file load error. '/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs'
+2017-04-04 00:09:42 [ThreadId 7] ERROR phoityne - startup load error. /Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs
+
+2017-04-04 00:09:47 [ThreadId 12] ERROR phoityne - load file fail.[/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Phoityne/Example/CreditCardSpec.hs] file load error. '/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Phoityne/Example/CreditCardSpec.hs'
+2017-04-04 00:09:50 [ThreadId 7] ERROR phoityne - load file fail.[/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs] file load error. '/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs'
+2017-04-04 00:09:50 [ThreadId 7] ERROR phoityne - startup load error. /Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs
+
+2017-04-04 00:09:59 [ThreadId 12] ERROR phoityne - load file fail.[/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Phoityne/Example/CreditCardSpec.hs] file load error. '/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Phoityne/Example/CreditCardSpec.hs'
+2017-04-04 00:10:07 [ThreadId 7] ERROR phoityne - load file fail.[/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs] file load error. '/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs'
+2017-04-04 00:10:07 [ThreadId 7] ERROR phoityne - startup load error. /Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs
+
+2017-04-04 00:12:54 [ThreadId 12] ERROR phoityne - load file fail.[/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Phoityne/Example/CreditCardSpec.hs] file load error. '/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Phoityne/Example/CreditCardSpec.hs'
+2017-04-04 00:12:58 [ThreadId 7] ERROR phoityne - load file fail.[/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs] file load error. '/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs'
+2017-04-04 00:12:58 [ThreadId 7] ERROR phoityne - startup load error. /Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs
+
+2017-04-04 00:14:42 [ThreadId 7] ERROR phoityne - load file fail.[/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs] file load error. '/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs'
+2017-04-04 00:14:42 [ThreadId 7] ERROR phoityne - startup load error. /Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs
+
+2017-04-04 00:16:19 [ThreadId 7] ERROR phoityne - load file fail.[/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs] file load error. '/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs'
+2017-04-04 00:16:19 [ThreadId 7] ERROR phoityne - startup load error. /Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs
+
+2017-04-04 00:16:29 [ThreadId 12] ERROR phoityne - load file fail.[/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Phoityne/Example/CreditCardSpec.hs] file load error. '/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Phoityne/Example/CreditCardSpec.hs'
+2017-04-04 00:16:33 [ThreadId 7] ERROR phoityne - load file fail.[/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs] file load error. '/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs'
+2017-04-04 00:16:33 [ThreadId 7] ERROR phoityne - startup load error. /Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs
+
+2017-04-04 00:22:22 [ThreadId 7] ERROR phoityne - load file fail.[/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs] file load error. '/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs'
+2017-04-04 00:22:22 [ThreadId 7] ERROR phoityne - startup load error. /Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs
+
+2017-04-04 00:33:15 [ThreadId 12] ERROR phoityne - load file fail.[/Users/pedropereira/Dev/p2p-haskell/chapter1/src/Phoityne/Example/CreditCard.hs] file load error. '/Users/pedropereira/Dev/p2p-haskell/chapter1/src/Phoityne/Example/CreditCard.hs'
+2017-04-04 00:33:54 [ThreadId 13] ERROR phoityne - load file fail.[/Users/pedropereira/Dev/p2p-haskell/chapter1/src/Phoityne/Example/CreditCard.hs] file load error. '/Users/pedropereira/Dev/p2p-haskell/chapter1/src/Phoityne/Example/CreditCard.hs'
+2017-04-04 00:34:51 [ThreadId 14] ERROR phoityne - load file fail.[/Users/pedropereira/Dev/p2p-haskell/chapter1/src/Phoityne/Example/CreditCard.hs] file load error. '/Users/pedropereira/Dev/p2p-haskell/chapter1/src/Phoityne/Example/CreditCard.hs'
+2017-04-04 00:34:55 [ThreadId 7] ERROR phoityne - load file fail.[/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs] file load error. '/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs'
+2017-04-04 00:34:55 [ThreadId 7] ERROR phoityne - startup load error. /Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs
+
+2017-04-04 00:35:05 [ThreadId 12] ERROR phoityne - load file fail.[/Users/pedropereira/Dev/p2p-haskell/chapter1/src/Phoityne/Example/CreditCard.hs] file load error. '/Users/pedropereira/Dev/p2p-haskell/chapter1/src/Phoityne/Example/CreditCard.hs'
+2017-04-04 00:35:08 [ThreadId 7] ERROR phoityne - load file fail.[/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs] file load error. '/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs'
+2017-04-04 00:35:08 [ThreadId 7] ERROR phoityne - startup load error. /Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs
+
+2017-04-04 00:35:32 [ThreadId 7] ERROR phoityne - load file fail.[/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs] file load error. '/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs'
+2017-04-04 00:35:32 [ThreadId 7] ERROR phoityne - startup load error. /Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs
+
+2017-04-04 00:36:04 [ThreadId 7] ERROR phoityne - load file fail.[/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs] file load error. '/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs'
+2017-04-04 00:36:04 [ThreadId 7] ERROR phoityne - startup load error. /Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs
+
+2017-04-04 00:36:15 [ThreadId 7] ERROR phoityne - load file fail.[/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs] file load error. '/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs'
+2017-04-04 00:36:15 [ThreadId 7] ERROR phoityne - startup load error. /Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs
+
+2017-04-04 00:36:27 [ThreadId 12] ERROR phoityne - load file fail.[/Users/pedropereira/Dev/p2p-haskell/chapter1/src/Phoityne/Example/CreditCard.hs] file load error. '/Users/pedropereira/Dev/p2p-haskell/chapter1/src/Phoityne/Example/CreditCard.hs'
+2017-04-04 00:36:32 [ThreadId 7] ERROR phoityne - load file fail.[/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs] file load error. '/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs'
+2017-04-04 00:36:32 [ThreadId 7] ERROR phoityne - startup load error. /Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs
+
+2017-04-04 00:37:19 [ThreadId 7] ERROR phoityne - load file fail.[/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs] file load error. '/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs'
+2017-04-04 00:37:19 [ThreadId 7] ERROR phoityne - startup load error. /Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs
+
+2017-04-04 00:41:32 [ThreadId 7] ERROR phoityne - load file fail.[/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs] file load error. '/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs'
+2017-04-04 00:41:32 [ThreadId 7] ERROR phoityne - startup load error. /Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs
+
+2017-04-04 00:41:59 [ThreadId 12] ERROR phoityne - load file fail.[/Users/pedropereira/Dev/p2p-haskell/chapter1/src/Phoityne/Example/CreditCard.hs] file load error. '/Users/pedropereira/Dev/p2p-haskell/chapter1/src/Phoityne/Example/CreditCard.hs'
+2017-04-04 00:42:02 [ThreadId 7] ERROR phoityne - load file fail.[/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs] file load error. '/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs'
+2017-04-04 00:42:02 [ThreadId 7] ERROR phoityne - startup load error. /Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs
+
+2017-04-04 00:42:27 [ThreadId 7] ERROR phoityne - load file fail.[/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs] file load error. '/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs'
+2017-04-04 00:42:27 [ThreadId 7] ERROR phoityne - startup load error. /Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs
+
+2017-04-04 00:43:46 [ThreadId 7] ERROR phoityne - load file fail.[/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs] file load error. '/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs'
+2017-04-04 00:43:46 [ThreadId 7] ERROR phoityne - startup load error. /Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs
+
+2017-04-04 00:44:41 [ThreadId 7] ERROR phoityne - load file fail.[/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs] file load error. '/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs'
+2017-04-04 00:44:41 [ThreadId 7] ERROR phoityne - startup load error. /Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs
+
+2017-04-04 00:45:09 [ThreadId 7] ERROR phoityne - load file fail.[/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs] file load error. '/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs'
+2017-04-04 00:45:09 [ThreadId 7] ERROR phoityne - startup load error. /Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs
+
+2017-04-04 00:45:21 [ThreadId 12] ERROR phoityne - load file fail.[/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Phoityne/Example/CreditCardSpec.hs] file load error. '/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Phoityne/Example/CreditCardSpec.hs'
+2017-04-04 00:45:25 [ThreadId 7] ERROR phoityne - load file fail.[/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs] file load error. '/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs'
+2017-04-04 00:45:25 [ThreadId 7] ERROR phoityne - startup load error. /Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs
+
+2017-04-04 00:45:49 [ThreadId 12] ERROR phoityne - load file fail.[/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Phoityne/Example/CreditCardSpec.hs] file load error. '/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Phoityne/Example/CreditCardSpec.hs'
+2017-04-04 00:45:53 [ThreadId 7] ERROR phoityne - load file fail.[/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs] file load error. '/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs'
+2017-04-04 00:45:53 [ThreadId 7] ERROR phoityne - startup load error. /Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs
+
+2017-04-04 00:46:05 [ThreadId 12] ERROR phoityne - load file fail.[/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Phoityne/Example/CreditCardSpec.hs] file load error. '/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Phoityne/Example/CreditCardSpec.hs'
+2017-04-04 00:46:08 [ThreadId 7] ERROR phoityne - load file fail.[/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs] file load error. '/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs'
+2017-04-04 00:46:08 [ThreadId 7] ERROR phoityne - startup load error. /Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs
+
+2017-04-04 00:46:22 [ThreadId 12] ERROR phoityne - load file fail.[/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Phoityne/Example/CreditCardSpec.hs] file load error. '/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Phoityne/Example/CreditCardSpec.hs'
+2017-04-04 00:46:25 [ThreadId 7] ERROR phoityne - load file fail.[/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs] file load error. '/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs'
+2017-04-04 00:46:25 [ThreadId 7] ERROR phoityne - startup load error. /Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs
+
+2017-04-04 00:56:19 [ThreadId 13] ERROR phoityne - load file fail.[/Users/pedropereira/Dev/p2p-haskell/chapter1/src/Phoityne/Example/CreditCard.hs] file load error. '/Users/pedropereira/Dev/p2p-haskell/chapter1/src/Phoityne/Example/CreditCard.hs'
+2017-04-04 00:56:37 [ThreadId 12] ERROR phoityne - load file fail.[/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Phoityne/Example/CreditCardSpec.hs] file load error. '/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Phoityne/Example/CreditCardSpec.hs'
+2017-04-04 00:56:39 [ThreadId 7] ERROR phoityne - load file fail.[/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs] file load error. '/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs'
+2017-04-04 00:56:39 [ThreadId 7] ERROR phoityne - startup load error. /Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs
+
+2017-04-04 00:57:17 [ThreadId 12] ERROR phoityne - load file fail.[/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Phoityne/Example/CreditCardSpec.hs] file load error. '/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Phoityne/Example/CreditCardSpec.hs'
+2017-04-04 00:57:21 [ThreadId 7] ERROR phoityne - load file fail.[/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs] file load error. '/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs'
+2017-04-04 00:57:21 [ThreadId 7] ERROR phoityne - startup load error. /Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs
+
+2017-04-04 00:58:23 [ThreadId 7] ERROR phoityne - load file fail.[/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs] file load error. '/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs'
+2017-04-04 00:58:23 [ThreadId 7] ERROR phoityne - startup load error. /Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs
+
+2017-04-04 00:59:19 [ThreadId 7] ERROR phoityne - load file fail.[/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs] file load error. '/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs'
+2017-04-04 00:59:19 [ThreadId 7] ERROR phoityne - startup load error. /Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs
+
+2017-04-04 01:00:29 [ThreadId 12] ERROR phoityne - load file fail.[/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Phoityne/Example/CreditCardSpec.hs] file load error. '/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Phoityne/Example/CreditCardSpec.hs'
+2017-04-04 01:00:39 [ThreadId 7] ERROR phoityne - load file fail.[/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs] file load error. '/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs'
+2017-04-04 01:00:39 [ThreadId 7] ERROR phoityne - startup load error. /Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs
+
+2017-04-04 01:01:16 [ThreadId 7] ERROR phoityne - load file fail.[/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs] file load error. '/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs'
+2017-04-04 01:01:16 [ThreadId 7] ERROR phoityne - startup load error. /Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs
+
+2017-04-04 01:01:29 [ThreadId 12] ERROR phoityne - load file fail.[/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Phoityne/Example/CreditCardSpec.hs] file load error. '/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Phoityne/Example/CreditCardSpec.hs'
+2017-04-04 01:01:40 [ThreadId 7] ERROR phoityne - load file fail.[/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs] file load error. '/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs'
+2017-04-04 01:01:40 [ThreadId 7] ERROR phoityne - startup load error. /Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs
+
+2017-04-04 01:01:55 [ThreadId 7] ERROR phoityne - load file fail.[/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs] file load error. '/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs'
+2017-04-04 01:01:55 [ThreadId 7] ERROR phoityne - startup load error. /Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs
+
+2017-04-04 01:05:23 [ThreadId 7] ERROR phoityne - load file fail.[/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs] file load error. '/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs'
+2017-04-04 01:05:23 [ThreadId 7] ERROR phoityne - startup load error. /Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs
+
+2017-04-04 01:05:30 [ThreadId 7] ERROR phoityne - load file fail.[/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs] file load error. '/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs'
+2017-04-04 01:05:30 [ThreadId 7] ERROR phoityne - startup load error. /Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs
+
+2017-04-04 01:05:51 [ThreadId 12] ERROR phoityne - load file fail.[/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Phoityne/Example/CreditCardSpec.hs] file load error. '/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Phoityne/Example/CreditCardSpec.hs'
+2017-04-04 01:10:24 [ThreadId 7] ERROR phoityne - load file fail.[/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs] file load error. '/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs'
+2017-04-04 01:10:24 [ThreadId 7] ERROR phoityne - startup load error. /Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs
+
+2017-04-04 01:11:36 [ThreadId 12] ERROR phoityne - load file fail.[/Users/pedropereira/Dev/p2p-haskell/chapter1/src/Phoityne/Example/CreditCard.hs] file load error. '/Users/pedropereira/Dev/p2p-haskell/chapter1/src/Phoityne/Example/CreditCard.hs'
+2017-04-04 01:11:38 [ThreadId 7] ERROR phoityne - load file fail.[/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs] file load error. '/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs'
+2017-04-04 01:11:38 [ThreadId 7] ERROR phoityne - startup load error. /Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs
+
+2017-04-04 01:13:07 [ThreadId 7] ERROR phoityne - load file fail.[/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs] file load error. '/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs'
+2017-04-04 01:13:07 [ThreadId 7] ERROR phoityne - startup load error. /Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs
+
+2017-04-04 01:46:42 [ThreadId 7] ERROR phoityne - load file fail.[/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs] file load error. '/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs'
+2017-04-04 01:46:42 [ThreadId 7] ERROR phoityne - startup load error. /Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs
+
+2017-04-04 01:50:40 [ThreadId 13] ERROR phoityne - load file fail.[/Users/pedropereira/Dev/p2p-haskell/chapter1/src/Phoityne/Example/CreditCard.hs] file load error. '/Users/pedropereira/Dev/p2p-haskell/chapter1/src/Phoityne/Example/CreditCard.hs'
+2017-04-04 01:50:45 [ThreadId 7] ERROR phoityne - load file fail.[/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs] file load error. '/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs'
+2017-04-04 01:50:45 [ThreadId 7] ERROR phoityne - startup load error. /Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs
+
+2017-04-05 00:31:38 [ThreadId 7] ERROR phoityne - load file fail.[/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs] file load error. '/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs'
+2017-04-05 00:31:38 [ThreadId 7] ERROR phoityne - startup load error. /Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs
+
+2017-04-05 00:34:43 [ThreadId 7] ERROR phoityne - load file fail.[/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs] file load error. '/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs'
+2017-04-05 00:34:43 [ThreadId 7] ERROR phoityne - startup load error. /Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs
+
+2017-04-05 00:35:09 [ThreadId 12] ERROR phoityne - load file fail.[/Users/pedropereira/Dev/p2p-haskell/chapter1/src/Phoityne/Example/CreditCard.hs] file load error. '/Users/pedropereira/Dev/p2p-haskell/chapter1/src/Phoityne/Example/CreditCard.hs'
+2017-04-05 00:35:19 [ThreadId 7] ERROR phoityne - load file fail.[/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs] file load error. '/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs'
+2017-04-05 00:35:19 [ThreadId 7] ERROR phoityne - startup load error. /Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs
+
+2017-04-05 00:53:00 [ThreadId 7] ERROR phoityne - load file fail.[/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs] file load error. '/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs'
+2017-04-05 00:53:00 [ThreadId 7] ERROR phoityne - startup load error. /Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs
+
+2017-04-05 00:53:27 [ThreadId 7] ERROR phoityne - load file fail.[/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs] file load error. '/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs'
+2017-04-05 00:53:27 [ThreadId 7] ERROR phoityne - startup load error. /Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs
+
+2017-04-05 00:54:33 [ThreadId 7] ERROR phoityne - load file fail.[/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs] file load error. '/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs'
+2017-04-05 00:54:33 [ThreadId 7] ERROR phoityne - startup load error. /Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs
+
+2017-04-05 00:55:48 [ThreadId 12] ERROR phoityne - load file fail.[/Users/pedropereira/Dev/p2p-haskell/chapter1/src/Phoityne/Example/CreditCard.hs] file load error. '/Users/pedropereira/Dev/p2p-haskell/chapter1/src/Phoityne/Example/CreditCard.hs'
+2017-04-05 00:55:54 [ThreadId 7] ERROR phoityne - load file fail.[/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs] file load error. '/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs'
+2017-04-05 00:55:54 [ThreadId 7] ERROR phoityne - startup load error. /Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs
+
+2017-04-05 01:04:28 [ThreadId 13] ERROR phoityne - load file fail.[/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Phoityne/Example/CreditCardSpec.hs] file load error. '/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Phoityne/Example/CreditCardSpec.hs'
+2017-04-05 01:04:32 [ThreadId 7] ERROR phoityne - load file fail.[/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs] file load error. '/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs'
+2017-04-05 01:04:32 [ThreadId 7] ERROR phoityne - startup load error. /Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs
+
+2017-04-05 01:09:02 [ThreadId 7] ERROR phoityne - load file fail.[/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs] file load error. '/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs'
+2017-04-05 01:09:02 [ThreadId 7] ERROR phoityne - startup load error. /Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs
+
