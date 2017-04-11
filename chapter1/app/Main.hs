@@ -1,9 +1,6 @@
 module Main where
 
-import SpecHelper
-import Lib
+import Phoityne.Example.CreditCard
 
--- main :: IO ()
--- main = someFunc
 main :: IO ()
-main = hspec spec
+main = putStrLn (boolToString(validate (sumDigits (doubleEveryOther (toDigits 4012888888881881)))))

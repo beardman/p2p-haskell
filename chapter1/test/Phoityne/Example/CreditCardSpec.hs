@@ -47,14 +47,6 @@ spec =
         context "with [8,7,6,5]" $
             it "should be 26" $
                 sumDigits [8,7,6,5] `shouldBe` 26
-        
-        context "with 180" $
-            it "should be 0" $
-                sumRemainder 180 `shouldBe` 0
-        
-        context "with 93" $
-            it "should be 3" $
-                sumRemainder 93 `shouldBe` 3
 
         -- context "validate with 4012888888881881" $
         --     it "should be True" $

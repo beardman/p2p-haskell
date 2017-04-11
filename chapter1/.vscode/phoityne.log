@@ -268,3 +268,12 @@
 2017-04-05 01:09:02 [ThreadId 7] ERROR phoityne - load file fail.[/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs] file load error. '/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs'
 2017-04-05 01:09:02 [ThreadId 7] ERROR phoityne - startup load error. /Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs
 
+2017-04-10 22:54:08 [ThreadId 7] ERROR phoityne - load file fail.[/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs] file load error. '/Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs'
+2017-04-10 22:54:08 [ThreadId 7] ERROR phoityne - startup load error. /Users/pedropereira/Dev/p2p-haskell/chapter1/test/Spec.hs
+
+2017-04-10 23:00:25 [ThreadId 7] ERROR phoityne - ghci launch error. <file descriptor: 40>: hPutChar: resource vanished (Broken pipe)
+
+2017-04-10 23:00:25 [ThreadId 7] ERROR phoityne - [disconnectRequestHandler] ghci not started.
+2017-04-10 23:18:33 [ThreadId 7] ERROR phoityne - ghci launch error. <file descriptor: 40>: hPutChar: resource vanished (Broken pipe)
+
+2017-04-10 23:18:33 [ThreadId 7] ERROR phoityne - [disconnectRequestHandler] ghci not started.
