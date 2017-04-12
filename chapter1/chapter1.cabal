@@ -19,9 +19,10 @@ library
   default-language:    Haskell2010
 
 executable chapter1-exe
-  hs-source-dirs:      app
+  hs-source-dirs:      src, src/Phoityne, src/Phoityne/Example, src/Phoityne/Homework2
   main-is:             Main.hs
   ghc-options:         -threaded -rtsopts -with-rtsopts=-N
+  other-modules:       Log, LogAnalysis
   build-depends:       base
                      , hspec>= 2.2
                      , chapter1
