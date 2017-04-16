@@ -15,5 +15,5 @@ parseMessage s = case words s of
 
 parse :: String -> [LogMessage]
 parse messages = case lines messages of
-    (s:xs) -> (parseMessage s) : (parse (unlines xs))
+    (s:xs) -> parseMessage s : (parse $ unlines xs)
     [] -> []

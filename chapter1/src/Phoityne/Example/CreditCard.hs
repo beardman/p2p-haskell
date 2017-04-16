@@ -17,7 +17,7 @@ toDigitsRev :: Integer -> [Integer]
 toDigitsRev x = reverse(toDigits x)
 
 doubleEveryOther :: [Integer] -> [Integer]
-doubleEveryOther x = reverse(doubleElements  x)
+doubleEveryOther x = reverse . doubleElements $ reverse  x
 -- doubleEveryOther x = reverse(doubleElements(reverse x ) )
 
 doubleElements :: [Integer] -> [Integer]
@@ -27,7 +27,9 @@ doubleElements (x:y:zs) = x : (y * 2) : doubleElements zs
 
 sumDigits :: [Integer] -> Integer
 sumDigits [] = 0
-sumDigits (x:xs) = x + sumDigits xs
+-- sumDigits (x:xs) = (sum . toDigits $ x) + (sumDigits xs)
+-- sumDigits xs = foldr (+) 0 xs
+sumDigits xs = foldr (\ x -> (+) (sum . toDigits $ x)) 0 xs
 
 validate :: Integer -> Bool
 validate x
@@ -39,4 +41,4 @@ boolToString True = "TRUE"
 boolToString False = "FALSE"
 
 cardValidation :: IO ()
-cardValidation = putStrLn (boolToString(validate (sumDigits (doubleEveryOther (toDigits 4012888888881881)))))
+cardValidation = putStrLn (boolToString(validate (sumDigits . doubleEveryOther . toDigits $ 4012888888881881)))
